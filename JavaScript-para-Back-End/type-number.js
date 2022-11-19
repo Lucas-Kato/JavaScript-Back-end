@@ -20,3 +20,17 @@ console.log(novaOperacao);
 
 const  alura = "Alura"
 console.log(alura * primeiroNumero)
+
+var a = 10
+var b = 0
+console.log(a/b)
+
+var a = 0
+var b = 0
+console.log(a/b)
+
+//exercício
+const soma = 10 + 10;
+const multiplicacao = 10 * 10;
+const operacao = (soma + multiplicacao) + 10;
+console.log(operacao);
