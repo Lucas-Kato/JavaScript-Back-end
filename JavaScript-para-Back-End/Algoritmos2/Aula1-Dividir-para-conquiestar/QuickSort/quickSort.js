@@ -36,6 +36,7 @@ function particiona(array, esquerda, direita) {
       atualDireita--;
     }
   }
+  
   return atualEsquerda;
 }
 
